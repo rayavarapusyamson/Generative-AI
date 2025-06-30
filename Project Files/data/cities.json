@@ -1,0 +1,26 @@
+{
+  "Seattle": {
+    "environment": {"value": "42"},
+    "energy": {"value": "78%"},
+    "traffic": {"value": "Moderate"},
+    "water": {"value": "Good"},
+    "waste": {"value": "Low"},
+    "safety": {"value": "Safe"},
+    "weather": {"value": "Cloudy"},
+    "feedback": {"value": "Positive"},
+    "health": {"value": "Good"},
+    "alerts": {"value": "None"}
+  },
+  "Mumbai": {
+    "environment": {"value": "130"},
+    "energy": {"value": "65%"},
+    "traffic": {"value": "Heavy"},
+    "water": {"value": "Moderate"},
+    "waste": {"value": "High"},
+    "safety": {"value": "Low"},
+    "weather": {"value": "Sunny"},
+    "feedback": {"value": "Mixed"},
+    "health": {"value": "Average"},
+    "alerts": {"value": "AQI High"}
+  }
+}
